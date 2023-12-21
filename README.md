@@ -7,7 +7,7 @@
 4.编译这份文件将sole.exe放置在Counter-Strike Global Offensive\content\csgo_addons\test\sounds【test为自己刚刚创建的项目名称】 将您的MP3、wav文件也一并放在这个目录下即可  
 5.运行sole.exe您将会在Counter-Strike Global Offensive\game\csgo_addons\test\sounds得到一个mp3.vsnd_C文件  
 他可以在CS2上使用 play mp3 播放 使用snd_toolvolume 可以调整声音大小  
-#CS2 Music
+# CS2 Music
 1. Right-click on the CS2 attribute on Steam, select DLC and check Counter-Strike Workshop Tools
 
 2. Wait for the download to complete and open Workshop Tools Create New Addon The name must be in English Click Create Double-click to start the project
